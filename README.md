@@ -116,7 +116,7 @@ HomeSOC-Lab/
 ## Progress Log
 
 ### Day 1 — Lab Infrastructure Setup
-**Date:** June 2025
+**Date:** June 6 2025
 
 Today was entirely about getting the foundation right. Infrastructure work is unglamorous but it matters — a shaky lab environment creates problems in every phase that follows.
 
