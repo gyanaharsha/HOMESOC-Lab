@@ -215,8 +215,8 @@ B.Tech in Computer Science (Amrita School of Engineering, 2022) and M.S. in Comp
 
 ## Contact
 
-- LinkedIn: [your LinkedIn URL]
-- GitHub: [your GitHub profile]
+- LinkedIn: https://www.linkedin.com/in/gyanaharsha/
+- GitHub: https://github.com/gyanaharsha
 
 ---
 
